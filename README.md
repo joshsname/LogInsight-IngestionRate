@@ -4,3 +4,5 @@ This script will grab the ingestion rate of a log insight instance via it's API 
 
 crontab example:
 */5 * * * * /home/josh/aggregateEvents.sh
+
+You can read more here: https://joshs.place/my-solution-to-calculate-vrealize-log-insights-ingestion-rate/
